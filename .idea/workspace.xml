@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36445b7b-d1aa-4aca-9f65-40897b287d9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WINE_QUALITY_CLASSIFICATION_TEST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING.py" beforeDir="false" afterPath="$PROJECT_DIR$/IRIS_CLASSIFICATION_TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708705828987</updated>
       <workItem from="1708705830894" duration="1274000" />
-      <workItem from="1708707552227" duration="1871000" />
+      <workItem from="1708707552227" duration="2767000" />
     </task>
     <servers />
   </component>

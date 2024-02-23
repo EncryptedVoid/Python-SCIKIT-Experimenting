@@ -1,5 +1,5 @@
-import numpy as np
-import matplotlib.pyplot as plt
+# import numpy as np
+# import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -61,16 +61,17 @@ print(classification_report(y_test, y_pred))
 '''The confusion matrix gives you insight into the number of correct and incorrect predictions for each class, 
 while the classification report provides key metrics like precision, recall, and f1-score for each class.'''
 
-'''Step 9: Experimenting and Improving Experiment with different numbers of neighbors (n_neighbors) in the KNN 
-classifier to see how it affects model accuracy. Additionally, explore other classifiers available in Scikit-learn 
-and compare their performance.
-
-Understanding the Process
-Step 2 sets up our toolset.
-Step 3 lets us peek into the data we're working with.
-Step 4 is about organizing our data into a format suitable for training/testing.
-Step 5 ensures our model doesn't get biased by the scale of features.
-Step 6 is where the learning happens.
-Step 7 applies our learned model to make predictions.
-Step 8 assesses how well our model is doing.
+'''
+    Experimenting and Improving Experiment with different numbers of neighbors (n_neighbors) in the KNN 
+    classifier to see how it affects model accuracy. Additionally, explore other classifiers available in Scikit-learn 
+    and compare their performance.
+    
+    Understanding the Process
+    Step 2 sets up our toolset.
+    Step 3 lets us peek into the data we're working with.
+    Step 4 is about organizing our data into a format suitable for training/testing.
+    Step 5 ensures our model doesn't get biased by the scale of features.
+    Step 6 is where the learning happens.
+    Step 7 applies our learned model to make predictions.
+    Step 8 assesses how well our model is doing.
 '''
